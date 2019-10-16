@@ -1,2 +1,0 @@
-Systemp.out.prinlt();
-test
